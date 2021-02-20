@@ -23,7 +23,7 @@ ________________________________________________________________________________
 ##### * Other technologies
 <br />
 
-<img src="https://emojis.slackmojis.com/emojis/images/1479745458/1383/typescript.png?1479745458" /><img src="https://emojis.slackmojis.com/emojis/images/1507180554/2988/aws.png?1507180554" /><img src="https://emojis.slackmojis.com/emojis/images/1533724346/4435/firebase.png?1533724346" /><img src="https://emojis.slackmojis.com/emojis/images/1450319444/32/python.png?1450319444" />
+<img src="https://emojis.slackmojis.com/emojis/images/1479745458/1383/typescript.png?1479745458" width="24" />  <img src="https://emojis.slackmojis.com/emojis/images/1507180554/2988/aws.png?1507180554" width="24" />  <img src="https://emojis.slackmojis.com/emojis/images/1533724346/4435/firebase.png?1533724346" width="24" /><img src="https://emojis.slackmojis.com/emojis/images/1450319444/32/python.png?1450319444" width="24" />
 <br />
 
 
