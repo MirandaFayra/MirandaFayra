@@ -23,7 +23,10 @@ ________________________________________________________________________________
 ##### * Other technologies
 <br />
 
-<img src="https://emojis.slackmojis.com/emojis/images/1479745458/1383/typescript.png?1479745458" width="24" />  <img src="https://emojis.slackmojis.com/emojis/images/1507180554/2988/aws.png?1507180554" width="24" />  <img src="https://emojis.slackmojis.com/emojis/images/1533724346/4435/firebase.png?1533724346" width="24" /><img src="https://emojis.slackmojis.com/emojis/images/1450319444/32/python.png?1450319444" width="24" />
+* <img src="https://emojis.slackmojis.com/emojis/images/1479745458/1383/typescript.png?1479745458" width="28" />  <p> TypeScript</p>
+* <img src="https://emojis.slackmojis.com/emojis/images/1507180554/2988/aws.png?1507180554" width="28" />   <p> AWS</p>
+* <img src="https://emojis.slackmojis.com/emojis/images/1533724346/4435/firebase.png?1533724346" width="28" />  <p> Firebase</p>
+* <img src="https://emojis.slackmojis.com/emojis/images/1450319444/32/python.png?1450319444" width="28" /> <p> Python</p>
 <br />
 
 
