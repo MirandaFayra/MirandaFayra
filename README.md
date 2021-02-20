@@ -5,7 +5,6 @@ ________________________________________________________________________________
 I'm  Architect and Urbanist in career transitioning to Web Development.
 
 ### I’m currently learning ...
-<br />
 
 ##### Front
 <br />
