@@ -32,4 +32,16 @@ I'm  Architect and Urbanist in career transitioning to Web Development.
 
 _______________________________________________________________________________________________________________________________________________
 
+### Random Facts ..
+
+<br />
+
+*  I love to dance <img src="https://emojis.slackmojis.com/emojis/images/1570531733/6630/dance.gif?1570531733" width="28" />  ;
+*  I am vegetarian <img src="https://emojis.slackmojis.com/emojis/images/1594048302/9614/party-plant.gif?1594048302" width="28" /> ;
+*  I'm traveling passionate  :airplane: (the countries that are already on the list <img src="https://emojis.slackmojis.com/emojis/images/1601907505/10725/mexico_flag.png?1601907505" width="28" /> :colombia:). 
+
+________________________________________________________________________________________________________________________________________________________
+
+### Some statistics ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirandafayra&layout=compact)](https://github.com/MirandaFayra/github-readme-stats)
 
