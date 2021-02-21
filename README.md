@@ -3,7 +3,7 @@
 _______________________________________________________________________________________________
 
 
-I'm  Architect and Urbanist in career transitioning to Web Development.I believe in technology and education as a catalyst for sustainable development. 
+I'm  Architect and Urbanist in career transitioning to Web Development. I believe in technology and education as a catalyst for sustainable development. 
 
 <br />
 
