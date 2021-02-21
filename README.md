@@ -1,5 +1,5 @@
 # Hi, I'm Fay! Nice to meet you! 👋
-Let's Talk <a href="https://www.linkedin.com/in/fayramiranda/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a> ?
+<b>Let's Talk </b>               <a href="https://www.linkedin.com/in/fayramiranda/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a> <b> ? </b>   
 _______________________________________________________________________________________________
 
 
