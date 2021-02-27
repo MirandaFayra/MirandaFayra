@@ -37,7 +37,8 @@ ________________________________________________________________________________
 
 *  Apaixonada pela dança e todas as formas de expressão da alma <img src="https://emojis.slackmojis.com/emojis/images/1570531733/6630/dance.gif?1570531733" width="28" />  ;
 *  Vegetariana <img src="https://emojis.slackmojis.com/emojis/images/1594048302/9614/party-plant.gif?1594048302" width="28" /> ;
-*  Conhecer, desbravar e aprender sobre lugares e pessoas por meio de viagens e experiências é uma paixão! :airplane: (alguns paises que estão nessa lista : México e Colômbia! Sim, sou bilíngue! E amo muito espanhol). 
+*  Conhecer, desbravar e aprender sobre lugares e pessoas por meio de viagens e experiências é uma paixão! :airplane: (alguns paises que estão nessa lista : México e Colômbia! Sim, sou bilíngue! E amo muito espanhol);
+*  Sempre estou buscando um jeito novo, diferente e mais eficiente de fazer as coisas :crystal_ball:
 
 ________________________________________________________________________________________________________________________________________________________
 
