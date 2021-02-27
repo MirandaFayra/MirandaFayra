@@ -1,4 +1,4 @@
-# Oi, muito prazer! Seja muito bem-vind@! 👋
+### Oi, muito prazer! Seja muito bem-vind@! 👋
 <b>Vamos conversar e aumentar essa rede? </b>  <a href="https://www.linkedin.com/in/fayramiranda/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a> <b> ? </b>   
 _______________________________________________________________________________________________
 
@@ -6,7 +6,7 @@ ________________________________________________________________________________
 Sou Fay, arquiteta urbanista de formação e desenvolvedora  por paixão. Acredito na tecnologia, educação e no inconformismo como principais ferramentas para a promoção do desenvolvimento sustentável (Sim, aquele mesmo das ODS !). Resolvi fazer essa transição, pois amo o poder da tecnologia para: inovar, dinamizar e  realmete impactar a vida das pessoas.
 <br />
 
-### Estudando...
+#### Estudando...
 
 * Front-End
 
@@ -42,6 +42,6 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________________________________________
 
-### Algumas estatísticas  ...
+#### Algumas estatísticas  ...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirandaFayra&layout=compact)](https://github.com/MirandaFayra/github-readme-stats)
 
