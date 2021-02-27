@@ -1,4 +1,4 @@
-# Oi, muito prazer! Seja muito bem-vindo! 👋
+# Oi, muito prazer! Seja muito bem-vind@! 👋
 <b>Vamos conversar e aumentar essa rede? </b>  <a href="https://www.linkedin.com/in/fayramiranda/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a> <b> ? </b>   
 _______________________________________________________________________________________________
 
