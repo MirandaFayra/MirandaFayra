@@ -31,17 +31,6 @@ Sou Fay, arquiteta urbanista de formação e desenvolvedora  por paixão. Acredi
 
 _______________________________________________________________________________________________________________________________________________
 
-### Fatos aleatórios, mas especiais sobre mim ... 
-
-<br />
-
-*  Apaixonada pela dança e todas as formas de expressão da alma <img src="https://emojis.slackmojis.com/emojis/images/1570531733/6630/dance.gif?1570531733" width="28" />  ;
-*  Vegetariana <img src="https://emojis.slackmojis.com/emojis/images/1594048302/9614/party-plant.gif?1594048302" width="28" /> ;
-*  Conhecer, desbravar e aprender sobre lugares e pessoas por meio de viagens e experiências é uma paixão! :airplane: (alguns paises que estão nessa lista : México e Colômbia! Sim, sou bilíngue! E amo muito espanhol!);
-*  Sempre estou buscando um jeito novo, diferente e mais eficiente de fazer as coisas :crystal_ball:
-
-________________________________________________________________________________________________________________________________________________________
-
 #### Algumas estatísticas  ...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirandaFayra&layout=compact)](https://github.com/MirandaFayra/github-readme-stats)
 
