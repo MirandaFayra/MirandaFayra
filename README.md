@@ -3,10 +3,10 @@
 _______________________________________________________________________________________________
 
 
-Sou Fay, arquiteta urbanista de formação e estudante para desenvolvimento web por paixão. Acredito na tecnologia, educação e no incoformismo como principais ferramentas para a promoção do desenvolvimento sustentável (Sim, aquele mesmo das ODS !). Resolvi fazer essa transição, pois amo o poder da tecnologia para inovação, dinamismo e realmente impactar a vida das pessoas.
+Sou Fay, arquiteta urbanista de formação e desenvolvedora  por paixão. Acredito na tecnologia, educação e no incoformismo como principais ferramentas para a promoção do desenvolvimento sustentável (Sim, aquele mesmo das ODS !). Resolvi fazer essa transição, pois amo o poder da tecnologia para: inovação, dinamismo e real impacto na vida das pessoas.
 <br />
 
-### Provavelmente estarei estudando uma dessas tecnologias ...
+### Estudando...
 
 * Front-End
 
@@ -22,7 +22,7 @@ Sou Fay, arquiteta urbanista de formação e estudante para desenvolvimento web 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <br />
 
-* Mais algumas...
+* Não para por aí...
 
 <br />
 
@@ -31,13 +31,13 @@ Sou Fay, arquiteta urbanista de formação e estudante para desenvolvimento web 
 
 _______________________________________________________________________________________________________________________________________________
 
-### Fatos aleatórios, mas especiais sobre mim ..
+### Fatos aleatórios, mas especiais sobre mim ... 
 
 <br />
 
 *  Apaixonada pela dança e todas as formas de expressão da alma <img src="https://emojis.slackmojis.com/emojis/images/1570531733/6630/dance.gif?1570531733" width="28" />  ;
 *  Vegetariana <img src="https://emojis.slackmojis.com/emojis/images/1594048302/9614/party-plant.gif?1594048302" width="28" /> ;
-*  Conhecer, desbravar e aprender sobre lugares e pessoas por meio de viagens  e experiências é uma paixão! :airplane: (alguns paises que estão nessa lista : México e Colômbia! Sim, sou bilíngue! E amo muito espanhol). 
+*  Conhecer, desbravar e aprender sobre lugares e pessoas por meio de viagens e experiências é uma paixão! :airplane: (alguns paises que estão nessa lista : México e Colômbia! Sim, sou bilíngue! E amo muito espanhol). 
 
 ________________________________________________________________________________________________________________________________________________________
 
