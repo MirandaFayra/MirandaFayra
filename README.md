@@ -3,7 +3,7 @@
 _______________________________________________________________________________________________
 
 
-Sou Fay, arquiteta urbanista de formação e desenvolvedora  por paixão. Acredito na tecnologia, educação e no incoformismo como principais ferramentas para a promoção do desenvolvimento sustentável (Sim, aquele mesmo das ODS !). Resolvi fazer essa transição, pois amo o poder da tecnologia para: inovação, dinamismo e real impacto na vida das pessoas.
+Sou Fay, arquiteta urbanista de formação e desenvolvedora  por paixão. Acredito na tecnologia, educação e no incoformismo como principais ferramentas para a promoção do desenvolvimento sustentável (Sim, aquele mesmo das ODS !). Resolvi fazer essa transição, pois amo o poder da tecnologia para: inovar, dinamizar e  realmete impactar a vida das pessoas.
 <br />
 
 ### Estudando...
