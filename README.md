@@ -1,13 +1,12 @@
-# Hi, I'm Fay! Nice to meet you! 👋
-<b>LET'S TALK </b>  <a href="https://www.linkedin.com/in/fayramiranda/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a> <b> ? </b>   
+# Oi, muito prazer! Seja muito bem-vindo! 👋
+<b>Vamos conversar e aumentar essa rede? </b>  <a href="https://www.linkedin.com/in/fayramiranda/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a> <b> ? </b>   
 _______________________________________________________________________________________________
 
 
-I'm  Architect and Urbanist in career transitioning to Web Development. I believe in technology and education as a catalyst for sustainable development. 
-
+Sou Fay, arquiteta urbanista de formação e estudante para desenvolvimento web por paixão. Acredito na tecnologia, educação e no incoformismo como principais ferramentas para a promoção do desenvolvimento sustentável (Sim, aquele mesmo das ODS !). Resolvi fazer essa transição, pois amo o poder da tecnologia para inovação, dinamismo e realmente impactar a vida das pessoas.
 <br />
 
-### I’m currently learning ...
+### Provavelmente estarei estudando uma dessas tecnologias ...
 
 * Front-End
 
@@ -23,7 +22,7 @@ I'm  Architect and Urbanist in career transitioning to Web Development. I believ
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <br />
 
-* Other technologies
+* Mais algumas...
 
 <br />
 
@@ -32,16 +31,16 @@ I'm  Architect and Urbanist in career transitioning to Web Development. I believ
 
 _______________________________________________________________________________________________________________________________________________
 
-### Random Facts ..
+### Fatos aleatórios, mas especiais sobre mim ..
 
 <br />
 
-*  I love to dance <img src="https://emojis.slackmojis.com/emojis/images/1570531733/6630/dance.gif?1570531733" width="28" />  ;
-*  I am vegetarian <img src="https://emojis.slackmojis.com/emojis/images/1594048302/9614/party-plant.gif?1594048302" width="28" /> ;
-*  I am passionate about traveling  :airplane: (the countries that are already on the list México and Colômbia). 
+*  Apaixonada pela dança e todas as formas de expressão da alma <img src="https://emojis.slackmojis.com/emojis/images/1570531733/6630/dance.gif?1570531733" width="28" />  ;
+*  Vegetariana <img src="https://emojis.slackmojis.com/emojis/images/1594048302/9614/party-plant.gif?1594048302" width="28" /> ;
+*  Conhecer, desbravar e aprender sobre lugares e pessoas por meio de viagens  e experiências é uma paixão! :airplane: (alguns paises que estão nessa lista : México e Colômbia! Sim, sou bilíngue! E amo muito espanhol). 
 
 ________________________________________________________________________________________________________________________________________________________
 
-### Some Statistics ...
+### Algumas estatísticas  ...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirandafayra&layout=compact)](https://github.com/MirandaFayra/github-readme-stats)
 
