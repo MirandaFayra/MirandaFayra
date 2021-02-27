@@ -43,5 +43,5 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________________
 
 ### Algumas estatísticas  ...
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirandafayra&layout=compact)](https://github.com/MirandaFayra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirandaFayra&layout=compact)](https://github.com/MirandaFayra/github-readme-stats)
 
