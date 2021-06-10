@@ -31,6 +31,5 @@ Sou Fay, arquiteta urbanista de formação e desenvolvedora  por paixão. Acredi
 
 _______________________________________________________________________________________________________________________________________________
 
-#### Algumas estatísticas  ...
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirandaFayra&layout=compact)](https://github.com/MirandaFayra/github-readme-stats)
+
 
