@@ -6,7 +6,13 @@ ________________________________________________________________________________
 
 <br />
 
-Criativa e criadora, acredito na tecnologia e educacação como elementos para transformação de pessoas e vidas! 
+## 👋 &nbsp; Hello
+
+🇧🇷 Criativa e criadora, acredito na tecnologia e educacação como elementos para transformação de pessoas e vidas! 
+
+🇺🇸 Creative and creator, I believe in technology and education as elements for the transformation of individuals and lives!
+
+🇪🇸 Creativa y creadora, creo en la tecnología y la educación como elementos para la transformación de personas y vidas
 
 <br />
 
