@@ -30,3 +30,13 @@ ________________________________________________________________________________
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
 <br><br>
+
+_______________________________________________________________________________________________
+
+
+## ✉️ &nbsp; Contact
+
+<a href="https://www.linkedin.com/in/fayramiranda/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-fayramiranda-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+</p>
