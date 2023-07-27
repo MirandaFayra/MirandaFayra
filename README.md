@@ -8,26 +8,45 @@ ________________________________________________________________________________
 
 ## 👋 &nbsp; Hello
 
-🇧🇷 Criativa e criadora, acredito na tecnologia e educacação como elementos para transformação de pessoas e vidas! 
+🇧🇷 Criativa e criadora, acredito na tecnologia e educacação como elementos para transformação de pessoas e vidas! Projetando soluções digitais humanizadas.
 
-🇺🇸 Creative and creator, I believe in technology and education as elements for the transformation of individuals and lives!
 
-🇪🇸 Creativa y creadora, creo en la tecnología y la educación como elementos para la transformación de personas y vidas
+🇺🇸 Creative and innovative, I believe in technology and education as elements for the transformation of individuals and lives! Designing humanized digital solutions.
+
+🇪🇸 Creativa y creadora, creo en la tecnología y la educación como elementos para la transformación de personas y vidas. Proyectando soluciones digitales humanizadas.
 
 <br />
 
 ## 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![Styled components](https://img.shields.io/badge/-StyledComponents-05122A?style=flat&logo=styled-components)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![Chakra](https://img.shields.io/badge/-Chakra%20UI-05122A?style=flat&logo=chakraui)&nbsp;
+![Axios](https://img.shields.io/badge/-Axios-05122A?style=flat&logo=axios)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![Knex](https://img.shields.io/badge/-Knex-05122A?style=flat&logo=knex)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Render](https://img.shields.io/badge/-Render-05122A?style=flat&logo=render)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+
+
+
+
+
 
 <br>
 
