@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 <br />
 
-## 👋 &nbsp; Hello
+## 👋 &nbsp; Holá | Hello | Hola
 
 🇧🇷 Criativa e criadora, acredito na tecnologia e educacação como elementos para transformação de pessoas e vidas! 
 
@@ -27,7 +27,7 @@ _**Mi enfoque es 💪🏽: Diseñar soluciones digitales humanizadas**_
 
 <br />
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp; Conjunto de Tecnologias | Tech Stack | Conjunto Tecnológico
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
