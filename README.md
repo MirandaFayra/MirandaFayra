@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 <br />
 
-## 👋 &nbsp; Holá | Hello | Hola
+## 👋 &nbsp; Olá | Hello | Hola
 
 🇧🇷 Criativa e criadora, acredito na tecnologia e educacação como elementos para transformação de pessoas e vidas! 
 
