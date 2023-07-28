@@ -8,12 +8,18 @@ ________________________________________________________________________________
 
 ## 👋 &nbsp; Hello
 
-🇧🇷 Criativa e criadora, acredito na tecnologia e educacação como elementos para transformação de pessoas e vidas! Projetando soluções digitais humanizadas.
+🇧🇷 Criativa e criadora, acredito na tecnologia e educacação como elementos para transformação de pessoas e vidas! 
+
+Meu foco é 💪🏽 : Projetar soluções digitais humanizadas.
 
 
 🇺🇸 Creative and innovative, I believe in technology and education as elements for the transformation of individuals and lives! Designing humanized digital solutions.
 
+My focus is 💪🏽: Designing humanized digital solutions
+
 🇪🇸 Creativa y creadora, creo en la tecnología y la educación como elementos para la transformación de personas y vidas. Proyectando soluciones digitales humanizadas.
+
+Mi enfoque es 💪🏽: Diseñar soluciones digitales humanizadas.
 
 <br />
 
