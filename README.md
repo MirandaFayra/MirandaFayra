@@ -60,9 +60,13 @@ _**Mi enfoque es 💪🏽: Diseñar soluciones digitales humanizadas**_
 
 <br>
 
-## ✉️ &nbsp; Contact
+## ✉️ &nbsp; Contato | Contact | Contacto
 
 <a href="https://www.linkedin.com/in/fayramiranda/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-fayramiranda-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+
+<a href="https://wa.me/5511942146260" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-+55%2011%2094214%206260%20-05122A?style=flat&logo=whatsapp" alt="linkedin"/>
 </a>
 </p>
