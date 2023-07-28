@@ -15,13 +15,13 @@ _**Meu foco é 💪🏽 : Projetar soluções digitais humanizadas**_
 <br>
 
 
-🇺🇸 Creative and innovative, I believe in technology and education as elements for the transformation of individuals and lives! Designing humanized digital solutions.
+🇺🇸 Creative and innovative, I believe in technology and education as elements for the transformation of individuals and lives! 
 
 _**My focus is 💪🏽: Designing humanized digital solutions**_
 
 <br>
 
-🇪🇸 Creativa y creadora, creo en la tecnología y la educación como elementos para la transformación de personas y vidas. Proyectando soluciones digitales humanizadas.
+🇪🇸 Creativa y creadora, creo en la tecnología y la educación como elementos para la transformación de personas y vidas. 
 
 _**Mi enfoque es 💪🏽: Diseñar soluciones digitales humanizadas**_
 
